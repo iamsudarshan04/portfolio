@@ -35,12 +35,7 @@ Hi! I'm **Sudarshan P**, an **AI & Machine Learning enthusiast**. This is my per
 
 ---
 
-## Contact
-
-* **Email:** [kit27.am54@gmail.com](mailto:kit27.am54@gmail.com)
-* **Phone:** +91 8072017839
-* **GitHub:** [iamsudarshan04](https://github.com/iamsudarshan04)
-* **LinkedIn:** [iamsudarshan04](https://www.linkedin.com/in/sudarshan-p-8046312a5)
+*
 
 ---
 
